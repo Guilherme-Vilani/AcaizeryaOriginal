@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Produtos		TAR	169	new record size: 169
+Produtos	ProdutosNome	RUB+		ProdutosNome is a new item
+Produtos	ProdutosPreco	RUB+		ProdutosPreco is a new item

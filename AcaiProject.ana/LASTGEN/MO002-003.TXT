@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Produtos		TAR	177	new record size: 177
+Produtos	ProdutosImagem	RUB+		ProdutosImagem is a new item
